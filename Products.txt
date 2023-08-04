@@ -1,0 +1,96 @@
+Graphic Card:
+- Nvidia
++ GeForce RTX 40 Series
+* GeForce RTX 4090
+* GeForce RTX 4080
+* GeForce RTX 4070 Ti
+
++ GeForce RTX 30 Series
+* GeForce RTX 3090 Ti
+* GeForce RTX 3090 
+* GeForce RTX 3080 Ti
+* GeForce RTX 3080
+* GeForce RTX 3070 Ti
+* GeForce RTX 3070
+* GeForce RTX 3060 Ti
+* GeForce RTX 3060
+* GeForce RTX 3050
+
++ GeForce RTX 20 Series
+* GeForce RTX 2080 Ti
+* GeForce RTX 2080 Super
+* GeForce RTX 2080
+
++ GeForce GTX 16 Series
+* GeForce GTX 1660 Ti
+* GeForce GTX 1660 Super
+* GeForce GTX 1660 
+* GeForce GTX 1650 Super
+* GeForce GTX 1650 (G5)
+* GeForce GTX 1650 (G6)
+* GeForce GTX 1630 
+
+Processors:
+-Intel
++i3 (Raptor Cove microarchitecture(13th generation))
+* Core i3-13100
+* Core i3-13100F
+* Core i3-13100T
+* Core i3-13100E
+* Core i3-13100TE
+
++i5 (Raptor Cove + Gracemont microarchitecture(13th generation))
+* Core i5-13400
+* Core i5-13400F
+* Core i5-13500
+* Core i5-13600
+* Core i5-13600K
+* Core i5-13600KF
+* Core i5-13400T
+* Core i5-13500T
+* Core i5-13600T
+* Core i5-13400E
+* Core i5-13500E
+* Core i5-13500TE
+
++i7 (Raptor Cove + Gracemont microarchitecture(13th generation))
+* Core i7-13700
+* Core i7-13700F
+* Core i7-13700K
+* Core i7-13700KF
+* Core i7-13700T
+* Core i7-13700E
+* Core i7-13700TE
+
++i9 (Raptor Lake (Intel 7, 13th generation))
+* Core i9-13900
+* Core i9-13900F
+* Core i9-13900K
+* Core i9-13900KF
+* Core i9-13900KS
+* Core i9-13900T
+* Core i9-13900E
+* Core i9-13900TE
+
+-AMD
++Ryzen 9
+* 7950X3D
+* 7950X
+* 7900X3D
+* 7900X
+* 7900
+
++Ryzen 7
+* 7800X3D
+* 7700X
+* 7700
+
++Ryzen 5
+* 7600X
+* 7600
+
+RAM:
++ HyperX
+
+MotherBoards:
+
